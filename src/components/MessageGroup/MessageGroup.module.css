@@ -1,0 +1,65 @@
+.MessageGroup {
+    width: 75%;
+    margin-bottom: 40px;
+    /* display: inline-block; */
+}
+
+.CurUser {
+    margin-left: auto;
+    text-align: right;
+}
+
+.UserDetails {
+    display: flex;
+    align-items: center;
+}
+
+.CurUser .UserDetails {
+    /* flex-direction: row-reverse; */
+    display: none;
+}
+
+.UserDetails div {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-right: 6px;
+    position: relative;
+    min-width: 32px;
+}
+
+.UserDetails div img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.UserDetails div span {
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: green;
+    bottom: 0;
+    border: 2px solid white;
+    right: 2px;
+}
+
+.UserDetails span:last-of-type p:first-of-type {
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-bottom: 3px
+}
+
+.UserDetails span:last-of-type p:last-of-type,
+.MessageTime {
+    color: rgb(160, 156, 156);
+    font-size: 0.65rem;
+}
+
+.MessageTime {
+    margin-top: 10px;
+}

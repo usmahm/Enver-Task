@@ -1,0 +1,24 @@
+
+.MessageBox {
+    /* max-width: 10rem; */
+    width: fit-content;
+    padding: 14px 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border-top-left-radius: 0;
+    background-color: rgb(245, 245, 245);
+}
+
+.CurUser {
+    margin-left: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 0;
+}
+
+.MessageBox p {
+    font-size: 0.65rem;
+}
+
+.CurUser p {
+    text-align: right;
+}

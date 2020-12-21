@@ -1,0 +1,135 @@
+{
+	"messages": [{
+		"user": {
+			"isPro": false,
+			"industry": ["Artificial Intelligence"],
+			"location": {
+				"country": "MX",
+				"state": "N.L.",
+				"city": "Monterrey"
+			},
+			"avatar": "https://entre-app-media-dev.s3.us-east-2.amazonaws.com/1603213006830.png",
+			"username": "juan4",
+			"fullName": "Juan Carlos GMail",
+			"connections": 5,
+			"id": "wwUTRC64F6PQeTHtAZwYJvJlbUj1",
+			"title": ["Accountant", "Consultant", "Entrepreneur"]
+		},
+		"_id": "8f7e28c5-9ed5-41a2-83ba-c5bef22e0caf",
+		"createdAt": {
+			"_seconds": 1608336487,
+			"_nanoseconds": 917000000
+		},
+		"text": "Test"
+	}, {
+		"_id": "5cc89d87-d1f7-472a-a4b4-4899efc74712",
+		"text": "Hello!",
+		"createdAt": {
+			"_seconds": 1608336500,
+			"_nanoseconds": 818000000
+		},
+		"user": {
+			"avatar": "https://entre-app-media-dev.s3.us-east-2.amazonaws.com/1603213006830.png",
+			"industry": ["Artificial Intelligence"],
+			"username": "juan4",
+			"title": ["Accountant", "Consultant", "Entrepreneur"],
+			"connections": 5,
+			"id": "wwUTRC64F6PQeTHtAZwYJvJlbUj1",
+			"isPro": false,
+			"location": {
+				"city": "Monterrey",
+				"state": "N.L.",
+				"country": "MX"
+			},
+			"fullName": "Juan Carlos GMail"
+		}
+	}, {
+		"createdAt": {
+			"_seconds": 1608336662,
+			"_nanoseconds": 112000000
+		},
+		"text": "Hi!",
+		"_id": "315119f9-15c1-4a0f-b080-f1f55475eb07",
+		"user": {
+			"connections": 3,
+			"industry": ["Technology", "Education", "Finance"],
+			"fullName": "Juan Carlos del Valle",
+			"id": "0hr4z9EAXCXHd8SSED8o0crfKJO2",
+			"isPro": true,
+			"avatar": "https://entre-app-media-dev.s3.us-east-2.amazonaws.com/1595282023457.jpg",
+			"username": "juan",
+			"location": {
+				"city": "Monterrey",
+				"state": "Nuevo Leon",
+				"country": "Mexico"
+			},
+			"title": ["Entrepreneur"]
+		}
+	}, {
+		"_id": "4152787e-ef65-4fea-8dbd-01a91353511f",
+		"text": "Oh Really? Thanks sir, I’ll do my best \nfor yout brand",
+		"createdAt": {
+			"_seconds": 1608337759,
+			"_nanoseconds": 78000000
+		},
+		"user": {
+			"connections": 3,
+			"username": "juan",
+			"isPro": true,
+			"avatar": "https://entre-app-media-dev.s3.us-east-2.amazonaws.com/1595282023457.jpg",
+			"fullName": "Juan Carlos del Valle",
+			"industry": ["Technology", "Education", "Finance"],
+			"location": {
+				"country": "Mexico",
+				"city": "Monterrey",
+				"state": "Nuevo Leon"
+			},
+			"id": "0hr4z9EAXCXHd8SSED8o0crfKJO2",
+			"title": ["Entrepreneur"]
+		}
+	}, {
+		"_id": "49962ad2-27f5-4919-a660-0863104b2598",
+		"user": {
+			"connections": 3,
+			"username": "juan",
+			"fullName": "Juan Carlos del Valle",
+			"location": {
+				"state": "Nuevo Leon",
+				"country": "Mexico",
+				"city": "Monterrey"
+			},
+			"id": "0hr4z9EAXCXHd8SSED8o0crfKJO2",
+			"title": ["Entrepreneur"],
+			"isPro": true,
+			"avatar": "https://entre-app-media-dev.s3.us-east-2.amazonaws.com/1595282023457.jpg",
+			"industry": ["Technology", "Education", "Finance"]
+		},
+		"text": "Once again I thank you, and hopefully we can work together again",
+		"createdAt": {
+			"_seconds": 1608337777,
+			"_nanoseconds": 76000000
+		}
+	}, {
+		"user": {
+			"username": "juan4",
+			"location": {
+				"country": "MX",
+				"state": "N.L.",
+				"city": "Monterrey"
+			},
+			"industry": ["Artificial Intelligence"],
+			"title": ["Accountant", "Consultant", "Entrepreneur"],
+			"connections": 5,
+			"avatar": "https://entre-app-media-dev.s3.us-east-2.amazonaws.com/1603213006830.png",
+			"fullName": "Juan Carlos GMail",
+			"id": "wwUTRC64F6PQeTHtAZwYJvJlbUj1",
+			"isPro": false
+		},
+		"text": "Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do lorem ipsum dolor  .",
+		"_id": "26c6cd90-d3f8-4936-b4c7-6e9c5daf9f36",
+		"createdAt": {
+			"_seconds": 1608337812,
+			"_nanoseconds": 243000000
+		}
+	}]
+}
